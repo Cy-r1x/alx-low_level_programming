@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - start executing program from here
- 
+ * Return: 0 if the program was successfull
  */
 
 int main(void)
